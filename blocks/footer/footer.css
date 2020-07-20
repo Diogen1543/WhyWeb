@@ -1,0 +1,12 @@
+@import url(__title/footer__title.css);
+
+.footer{
+    background: linear-gradient(to bottom, #DAE2F8, #D6A4A4 );
+    
+    display: flex;
+    flex-direction: column; 
+    align-items: center;
+    
+    text-align: center;
+    color:#5d5b5b;
+}

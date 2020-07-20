@@ -1,0 +1,14 @@
+.header__menu-link{
+    text-decoration: none;
+    letter-spacing: 2px;
+    
+    padding-right: 10px;
+    vertical-align: top;
+    font-weight: 800;
+    
+    color:#19004b;
+}
+
+.header__menu-link:hover {
+     color: #1760af;
+}

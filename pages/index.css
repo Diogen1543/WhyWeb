@@ -1,0 +1,76 @@
+@import url(../vendor/slick-arrow/slick-arrow.css);
+@import url(../vendor/slick-next/slick-next.css);
+@import url(../vendor/slick-prev/slick-prev.css);
+
+@import url(../blocks/root/root.css);
+@import url(../blocks/header/header.css);
+@import url(../blocks/intro/intro.css);
+@import url(../blocks/container/container.css);
+@import url(../blocks/comics/comics.css);
+@import url(../blocks/footer/footer.css);
+
+
+
+@media (max-width: 1300px){
+    
+    .intro__img{
+        max-width: 500px;
+        opacity: .7;
+    }
+}
+
+@media (max-width: 990px){
+    
+    /*intro*/
+    .intro__main{
+        padding: 150px 0;
+    }
+    
+    .intro__img{
+        max-width: 400px;
+        opacity: 1;
+    }
+    
+    .intro__nia{
+        display: none;
+    }
+}
+
+@media (max-width: 750px){
+    
+    /*intro*/s
+    .intro__main{
+        padding: 50px 0;
+    }
+    
+    .intro__img{
+        max-width: 400px;
+    }
+    
+    /*intro*/
+    .intro__button{
+        margin-top:0;
+    }
+    
+}
+
+@media (max-width: 575px){
+    
+    .intro__title{
+        font-size: 30px;
+        
+    }
+    
+    .intro__subtitle{
+        font-size: 20px;
+        
+    }
+}
+
+@media (max-width: 410px){
+    
+    .header__menu{
+        right: 0;
+        left: 10%;
+    }
+}

@@ -1,0 +1,21 @@
+@import url(__main/intro__main.css);
+@import url(__title/intro__taitle.css);
+@import url(__subtitle/intro__subtaitle.css);
+@import url(__button/intro__button.css);
+@import url(__button-link/intro__button-link.css);
+@import url(__img/intro__img.css);
+@import url(__nia/intro__nia.css);
+
+
+.intro{
+    width: 100%;
+    height: 100vh;
+    
+    position: relative;
+    z-index: 0;
+    
+    display: flex;
+    justify-content: center;
+    
+    background: linear-gradient(to bottom, #D6A4A4, #DAE2F8);
+}

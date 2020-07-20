@@ -1,0 +1,21 @@
+.intro__button{
+    width: 150px;
+    height: 40px;
+    
+    background-color: #19004b;
+    color: #fff;
+    
+    border: 0;
+    
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    text-transform: uppercase;
+    
+    padding: 12px 20px;
+    margin-top: 50px;
+    
+    cursor: pointer;
+}
+.intro__button:hover {
+    background-color: #1760af;
+}

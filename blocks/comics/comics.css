@@ -1,0 +1,6 @@
+@import url(__main/comics__main.css);
+@import url(__page/comics__page.css);
+
+.comics{
+    background-color: #DAE2F8;
+}

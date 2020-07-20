@@ -1,0 +1,13 @@
+$(function() {
+
+
+    /* Slider */
+    
+   $("[slider]").slick({
+        infinite: true,
+        fade: false,
+        slidesToShow: 1,
+        slidesToScroll: 1,
+    });
+
+}); 

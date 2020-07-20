@@ -1,0 +1,12 @@
+@import url(__menu/header__menu.css);
+@import url(__menu-link/header__menu-link.css);
+
+.header{
+    max-height: 50px;
+    width: 100%;
+    position: absolute;
+    top: 20px;
+    left: 0;
+    right: 0;
+    z-index: 1000;
+}

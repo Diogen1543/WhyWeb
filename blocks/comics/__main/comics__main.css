@@ -1,0 +1,12 @@
+.comics__main{
+    max-width: 600px;
+    width: 100%;
+    
+    max-height: 900px;
+    height: 100%;
+    
+    overflow: hidden;
+    
+    margin: 0 auto;
+    padding: 50px 0;
+}
